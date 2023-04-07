@@ -20,3 +20,7 @@ public class AmstrongNum {
 	}
 
 }
+
+
+//git fetch
+//git pull
